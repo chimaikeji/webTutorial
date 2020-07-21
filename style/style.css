@@ -1,0 +1,26 @@
+
+#banner{
+    background-color: rgb(96, 97, 97);
+    height: 120; border: rgb(241, 239, 236);
+    font-style: italic;
+    text-align: center;
+    font-size: 40px; 
+
+}
+#firstcol{
+    width: 200px; height: 500px; float: left;
+    background-color: rgb(166, 172, 166);
+    font-size: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+}
+#lastcol{
+    background-color: rgb(166, 172, 166);
+    float: right; float: top;
+    width: 350px; height: 500px;
+    padding-left: 10px;
+}
+#midcol {
+    width: 500px; float: left;
+    height: 500px;
+    margin: 10px; padding: 40px;
+}
